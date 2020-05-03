@@ -4,6 +4,8 @@ https://it-monk.com/wp-content/uploads/2020/05/cropped-ITMOCK_Logo-03-1-2048x277
 
 # WORDPRESS REST API 範例 紐約時報文章列表
 
+原始文章: https://it-monk.com/wordpress-rest-api-%e5%bf%ab%e9%80%9f%e9%96%8b%e5%a7%8b%e4%b8%80/
+
 用紐約時報的網站是一個很著名的 WordPress 網站。
 用它當作範例引用 wordpress rest api
 
