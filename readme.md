@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png)
+![alt text](https://it-monk.com/wp-content/uploads/2020/05/cropped-ITMOCK_Logo-03-1-2048x277.png)
 
 https://it-monk.com/wp-content/uploads/2020/05/cropped-ITMOCK_Logo-03-1-2048x277.png
 
